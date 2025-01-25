@@ -1,0 +1,6 @@
+CustomerID,Age,AnnualIncome,PurchaseHistory,LastPurchaseDate,City
+1,23.0,60000,"Electronics, Fashion",2025-01-01,New York
+2,45.0,80000,"Groceries, Fashion",2024-12-15,San Francisco
+3,31.0,50000,Electronics,2025-01-10,Chicago
+4,35.0,75000,Fashion,2024-11-25,New York
+5,,40000,Groceries,,Los Angeles
